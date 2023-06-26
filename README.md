@@ -1,5 +1,3 @@
-# Day #38
-
 ### Movie App (TheMovieDB)
 In this tutorial ([Open in Youtube](https://youtu.be/dButm3gpZDA)),  I am gonna showing to you how to code a Movie App using JavaScript. in this video i'm using TheMovieDB api to get movies info. Also this code is fully responsive and when you scroll it will load more results❗️
 
