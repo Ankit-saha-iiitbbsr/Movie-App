@@ -1,5 +1,6 @@
 ### Movie App (TheMovieDB)
-- A Movie App using JavaScript. in this project i'm using TheMovieDB api to get movies info.
+- A Movie App using JavaScript.
+- In this project i'm using TheMovieDB api to get movies info.
 - Also this code is fully responsive and when you scroll it will load more results❗️
 - GitHub pages: https://ankit-saha-iiitbbsr.github.io/Movie-App/
 
